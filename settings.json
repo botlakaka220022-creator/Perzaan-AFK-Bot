@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "SHAYANMODZ-QBH4.aternos.me:28131",
+    "port": 28131,
     "version": "1.21.1"
   },
   "position": {
